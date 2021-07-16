@@ -1,4 +1,2 @@
 com/ksh/book/springboot/Application.java
  com.ksh.book.springboot.Application
-com/ksh/book/springboot/web/HelloController.java
- com.ksh.book.springboot.web.HelloController
