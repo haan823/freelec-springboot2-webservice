@@ -1,2 +1,0 @@
-com/ksh/book/springboot/Application.java
- com.ksh.book.springboot.Application
